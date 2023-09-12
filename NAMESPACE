@@ -2,5 +2,7 @@
 
 import(Rcpp)
 import(methods)
+importFrom(RcppParallel,RcppParallelLibs)
 importFrom(rstan,sampling)
+importFrom(rstantools,rstan_config)
 useDynLib(greencrab.toolkit, .registration = TRUE)

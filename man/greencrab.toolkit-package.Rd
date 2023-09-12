@@ -6,7 +6,7 @@
 \alias{greencrab.toolkit}
 \title{The 'greencrab.toolkit' package.}
 \description{
-A DESCRIPTION OF THE PACKAGE
+These Bayesian models written in the 'Stan' probabilistic language can be used to interpret green crab trapping and environmental DNA monitoring data, either independently or jointly. Detailed model information is found in Keller (2022) <doi:10.1002/eap.2561>.
 }
 \references{
 Stan Development Team (2023). RStan: the R interface to Stan. R package version 2.21.8. https://mc-stan.org
